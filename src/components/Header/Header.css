@@ -1,0 +1,26 @@
+.header-container{
+    height: 80px;
+    background-color:lavender;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+
+}
+
+.logo{
+    text-decoration: none;
+}
+.auth-link{
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
+.auth-link{
+    background-color:blueviolet;
+    padding:8px 16px;
+    border-radius:8px;
+    border:none;
+    cursor:pointer;
+    color: white;
+  }

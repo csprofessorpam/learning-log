@@ -1,0 +1,35 @@
+.topic-detail-container{
+    margin-top: 80px;
+    padding: 20px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    width:80%;
+    margin-top:20px;
+}
+
+.input-group textarea{
+    min-height:150px;
+    resize: vertical; /*can only change height*/
+}
+
+.add-btn{
+    background-color: blueviolet;
+    border:none;
+    color:white;
+    padding:8px 16px;
+    border-radius:8px;
+    margin:20px 0;
+    width:80%;
+    height:50px;
+    cursor:pointer;
+    font-size:24px;
+}
+
+.entry-detail{
+    margin: 20px;
+    border: 1px solid gray;
+    padding: 10px;
+}
